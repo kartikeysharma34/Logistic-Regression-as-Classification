@@ -1,1 +1,2 @@
 # Logistic-Regression-as-Classification
+Logistic Regression is widely used as a classification model. Logistic regression is a Linear model, with a binary resppnse, {False, True} or {0, 1}. You can think of this response as having a Binomial distribution. For linear regression the response is just, well, Linear. Logistic regression is a linear regression model with a nonlinear output. The response is transformed using a sigmoidal function, also known as the logistic function.
